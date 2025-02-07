@@ -10,15 +10,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I enjoy exploring the latest trends in web design and contributing to open-source projects.
 
-## Languages and Tools
+## 🚀 Languages and Tools  
 
-Here are some of the technologies and tools I work with:
+Here are some of the technologies and tools I work with:  
 
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) |
 |---|---|---|---|
 | ![API Integration](https://img.shields.io/badge/-API%20Integration-FF6F00?style=flat-square&logo=api&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) | ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white) | ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| ![ShadCN UI](https://img.shields.io/badge/-ShadCN%20UI-000000?style=flat-square&logo=shadcn&logoColor=white) | ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white) |  |  |
+| ![ShadCN UI](https://img.shields.io/badge/-ShadCN%20UI-000000?style=flat-square&logo=shadcn&logoColor=white) | ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ## GitHub Stats
 
