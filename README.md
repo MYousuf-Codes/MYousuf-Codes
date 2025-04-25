@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Yousuf 👋
+# Hi there, I'm Muhammad Yousaf 👋
 
 ## About Me
 
