@@ -1,24 +1,47 @@
-# Hi there, I'm Muhammad Yousaf 👋
+# Hi there, I’m Muhammad Yousaf 👋
 
-## About Me
+> A passionate Full-Stack Developer building secure, scalable web & AI-powered applications.
 
-- 💻 I’m a passionate Full-Stack Developer specializing in modern web technologies such as React, Next.js, and TypeScript.
-- 🌱 Currently, I'm delving deeper into Redux Toolkit and exploring advanced features of headless CMS platforms like Sanity, Strapi, and Contentful.
-- 👯 I'm eager to collaborate on innovative web development projects, particularly those that challenge and expand my expertise in API integration and responsive design.
-- 💬 Feel free to ask me about front-end development, state management with Redux, or any challenges you're facing with Next.js.
-- 👭 You can reach me via email at **yousufhere.dev@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, I enjoy exploring the latest trends in web design and contributing to open-source projects.
+## 🌟 Expertise
 
-## 🚀 Languages and Tools  
+- **Languages & Frameworks**  
+  TypeScript, JavaScript, Next.js, React.js, Tailwind CSS
+- **UI Libraries**  
+  ShadCN UI · Material UI · Radix UI
+- **Headless CMS**  
+  Sanity · Contentful · Strapi
+- **Payments & Security**  
+  Stripe (advanced, secure integrations)
+- **Databases**  
+  MongoDB · PostgreSQL · Firebase Firestore · SQL & other RDBMS
+- **Auth & AuthZ**  
+  Auth.js · Firebase Auth · Clerk
+- **AI & Agents**  
+  Mastering Python 3 for Agentic AI Development
 
-Here are some of the technologies and tools I work with:  
+## 🚀 What I’m Doing Now
 
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) |
+- Diving deep into **Redux Toolkit** & **advanced headless CMS** workflows
+- Architecting **Agentic AI systems** with Python, LangChain, Pinecone
+- Building **scalable CRMs** and **e-commerce platforms**
+
+## 💬 Let’s Connect
+
+- 📫 Email: **[yousufhere.dev@gmail.com](mailto:yousufhere.dev@gmail.com)**  
+- 🌐 Portfolio: **your-site.com**  
+- 📝 Pronouns: He/Him  
+- ⚡ Fun fact: When I’m not coding, I’m exploring web-design trends or contributing to open-source.
+
+---
+
+### 🛠️ Tech Stack
+
+| ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&style=flat-square) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=flat-square) |
 |---|---|---|---|
-| ![API Integration](https://img.shields.io/badge/-API%20Integration-FF6F00?style=flat-square&logo=api&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) | ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white) | ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| ![ShadCN UI](https://img.shields.io/badge/-ShadCN%20UI-000000?style=flat-square&logo=shadcn&logoColor=white) | ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square) | ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&style=flat-square) | ![Radix](https://img.shields.io/badge/Radix_UI-FF4785?style=flat-square) | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&style=flat-square) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square) | ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square) | ![Firestore](https://img.shields.io/badge/Firestore-F16224?logo=google-cloud&style=flat-square) | ![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat-square) |
+| ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) | ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square) | ![Pinecone](https://img.shields.io/badge/Pinecone-754FFF?style=flat-square) |
+
 
 ## GitHub Stats
 
