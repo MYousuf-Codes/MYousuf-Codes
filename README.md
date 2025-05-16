@@ -53,5 +53,5 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myousuf-codes)  
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/YOUR_USER_ID)  
-🌐 Portfolio: [myousaf-codes.vercel.app](https://myousaf-codes.vercel.app)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)]([https://stackoverflow.com/users/YOUR_USER_ID](https://stackoverflow.com/users/22482042/muhammad-yousaf))  
+[🌐 Visit my Website: ](https://myousaf-codes.vercel.app)
